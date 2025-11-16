@@ -112,7 +112,7 @@ export default function Home() {
             {outputText || "ここに生成されたたかちゃん構文が表示されます。"}
           </Typography>
         </Paper>
-        <div className="w-full max-w-md my-2 flex items-center justify-start gap-3">
+        <div className="w-full max-w-md my-2 flex items-center justify-center sm:justify-start gap-3">
           <Button
             type="button"
             variant="contained"
