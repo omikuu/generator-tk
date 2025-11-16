@@ -129,6 +129,18 @@ export default function Home() {
           </Button>
           {copied && <span className="text-sm text-gray-700">Copied!</span>}
         </div>
+
+        <div className="w-full max-w-md my-4 text-center sm:text-left">
+          <h6 className="text-sm font-semibold mb-2">開発者について</h6>
+          <a
+            href="https://omikuu.github.io/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:underline"
+          >
+            https://omikuu.github.io/
+          </a>
+        </div>
       </main>
     </div>
   );
