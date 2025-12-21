@@ -1,0 +1,20 @@
+{
+  "name": "Miku Engineer Lab",
+  "short_name": "MikuLab",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ffff",
+  "icons": [
+    {
+      "src": "/ap.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/ap_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
